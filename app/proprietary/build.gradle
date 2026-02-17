@@ -1,0 +1,8 @@
+// Placeholder build file for proprietary module (removed in this workspace)
+// This keeps Docker multi-stage builds working when the proprietary module is absent.
+apply plugin: 'java'
+
+group = 'stirling.software'
+version = rootProject.hasProperty('version') ? rootProject.version : '0.0.0'
+
+// No dependencies - placeholder only
