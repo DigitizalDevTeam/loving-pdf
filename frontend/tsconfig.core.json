@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@app/*": [
+        "src/core/*"
+      ]
+    }
+  },
+  "include": [
+    "src/*.js",
+    "src/*.ts",
+    "src/*.tsx",
+    "src/core"
+  ]
+}
