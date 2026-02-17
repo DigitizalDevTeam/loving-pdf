@@ -18,7 +18,7 @@
     "@embedpdf/plugin-interaction-manager": "^2.5.0",
     "@embedpdf/plugin-pan": "^2.5.0",
     "@embedpdf/plugin-print": "^2.5.0",
-    "@embedpdf/plugin-redaction": "^2.5.0",
+    "@embedpdf/plugin-redaction": "^2.6.0",
     "@embedpdf/plugin-render": "^2.5.0",
     "@embedpdf/plugin-rotate": "^2.5.0",
     "@embedpdf/plugin-scroll": "^2.5.0",
